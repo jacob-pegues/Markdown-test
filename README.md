@@ -37,7 +37,7 @@ Cadets shall be able to:
 
 | Student  <br>Outcomes (SOs)<br><br>Course  <br>Objectives  <br>(COs) | **1 – Solve complex engr problems by applying engr, science, and math** | **2 – Engr Design to meet needs while considering societal factors** | **3 – Communicate effectively** | **4 – Professional and ethical responsibilities; judgements considering societal factors** | **5 - Function on multidisciplinary teams** | **6 - Develop and conduct experiments; analyze data; draw conclusions** | **7 – Ability to acquire new knowledge** |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| **ECE 346 - 1** | **M** |     |     |     |     |     |     |
+| **ECE 346 - 1** | **M** |  |     |     |     |     |     |
 | **ECE 346 - 2** | **M** |     |     |     |     |     |     |
 | **ECE 346 - 3** | **M** |     |     |     |     |     |     |
 | **ECE 346 - 4** | **M** |     |     |     |     |     |     |
